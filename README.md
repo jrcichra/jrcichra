@@ -1,4 +1,4 @@
-### Hi there 👋
+### Writing software from the middle of nowhere 📡🛰️ (thanks Starlink).
 
 <!--
 **jrcichra/jrcichra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
