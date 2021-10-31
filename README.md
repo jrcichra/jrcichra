@@ -1,4 +1,4 @@
-### Writing software from the middle of nowhere 📡🛰️ (thanks Starlink).
+### Writing software from the middle of nowhere 📡🛰️ (thanks [Starlink](https://www.starlink.com/)).
 
 <!--
 **jrcichra/jrcichra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
