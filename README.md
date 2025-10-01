@@ -1,4 +1,4 @@
-### Writing software in the country 🧑‍💻🌲.
+### Writing software in the country 🧑‍💻🌲
 
 <!--
 **jrcichra/jrcichra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
